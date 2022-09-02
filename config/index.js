@@ -24,11 +24,11 @@ export const config = {
      * ]
      */
     USERS: [
-      {name: 'vv', id: "T15173"}, 
+      {name: 'vv', id: "ocU0W6qCG8w0eIbHLkZFU7HYxOB8"}, 
     ],
     // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
     CALLBACK_USERS: [
-      {name: '自己',id: "lxy15022766686"}, 
+      {name: '自己',id: "ocU0W6tEh4Q1QNpn8-LZTsW2InRc"}, 
     ],
      
     /**
